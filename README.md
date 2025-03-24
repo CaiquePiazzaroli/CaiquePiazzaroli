@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
    <a href = "https://caiquemendes-git-main-caique-piazzarolis-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/About%20Me-261FB3?style=for-the-badge">
   </a>
 </div>
