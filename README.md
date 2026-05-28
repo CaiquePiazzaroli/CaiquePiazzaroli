@@ -23,25 +23,6 @@ Desenvolvedor com foco em **backend Java**, formado em Análise e Desenvolviment
 
 Hoje estou aprofundando meus conhecimentos em **Java + Spring Boot**, com o objetivo de construir APIs REST sólidas e evoluir como desenvolvedor backend.
 
-```java
-public class Caique {
-
-    String foco      = "Backend Java";
-    String estudando = "Spring Boot · APIs REST · SOLID · Clean Code";
-    String cidade    = "Piracaia, SP";
-    boolean aberto   = true; // para novas oportunidades
-
-    String[] proximos_passos = {
-        "Spring Boot na prática",
-        "Testes unitários com JUnit",
-        "Docker + CI/CD",
-        "Microsserviços"
-    };
-}
-```
-
----
-
 ### Stack & Tecnologias
 
 **Backend & Linguagens**
