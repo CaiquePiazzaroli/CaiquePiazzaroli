@@ -93,10 +93,3 @@ G5S Comercial · Analista de Suporte TI      Set 2022 – Jun 2024
 🏅 **AWS Academy Cloud Foundations** — Amazon Web Services (2025)
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaiquePiazzaroli&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquePiazzaroli&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
