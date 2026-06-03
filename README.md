@@ -1,95 +1,53 @@
-<div align="center">
+## Caique Piazzaroli
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║          Caique Piazzaroli  //  Backend Developer         ║
-║                   Java · Spring · APIs REST               ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+Desenvolvedor com foco em **backend Java**, formado em Análise e Desenvolvimento de Sistemas pelo IFSP-BRA (2026). Tenho 3 anos e meio de experiência profissional em tecnologia — suporte de TI, desenvolvimento de sistemas internos com Django, dashboards em Power BI e e-commerce com Shopify.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caique-piazz)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://caiquemendes.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caique405@gmail.com)
+Atualmente aprofundando conhecimentos em **Java + Spring Boot**, construindo APIs REST com boas práticas de arquitetura em camadas e documentação com OpenAPI/Swagger.
 
-</div>
+Piracaia, SP &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/caique-piazz) &nbsp;|&nbsp; [Portfólio](https://caiquemendes.vercel.app) &nbsp;|&nbsp; caique405@gmail.com
 
 ---
 
-### Sobre mim
+### Tecnologias
 
-Desenvolvedor com foco em **backend Java**, formado em Análise e Desenvolvimento de Sistemas pelo **IFSP-BRA (2026)**. Tenho 3 anos e meio de experiência profissional em tecnologia — passei por suporte de TI, desenvolvimento de sistemas internos com Django, criação de dashboards em Power BI e e-commerce com Shopify.
-
-Hoje estou aprofundando meus conhecimentos em **Java + Spring Boot**, com o objetivo de construir APIs REST sólidas e evoluir como desenvolvedor backend.
-
-### Stack & Tecnologias
-
-**Backend & Linguagens**
-
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Cloud, DevOps & Ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Backend:** Java 17, Spring Boot, Node.js, Django, Python, SQL  
+**Frontend:** JavaScript, HTML5, CSS3, React, Flutter  
+**Banco de Dados:** MySQL, PostgreSQL, SQLite, Firebase  
+**Cloud & DevOps:** Docker, AWS (EC2, Lambda, S3), Git, GitHub  
+**Ferramentas:** Postman, Maven, SpringDoc/OpenAPI, IntelliJ IDEA, Linux
 
 ---
 
-### Projetos em Destaque
+### Projetos
 
-| Projeto | Stack | Descrição |
-|---|---|---|
-| 🏥 **Sistema para Clínicas Médicas** | Java · Swing · MySQL · MVC | App desktop com cadastro de pacientes, agendamento e histórico médico |
-| 🏨 **Lumin Hotel Resort** | JavaScript · HTML · CSS · REST API | Front-end responsivo de resort com integração a APIs. Deploy via Vercel |
-| 🛒 **E-commerce Mobile** | Flutter · Firebase | App Android de e-commerce com vitrine de produtos e Firebase |
-| 🔧 **API REST Full-Stack** | Node.js · Sequelize · React · MySQL | Backend com endpoints REST + front-end React consumindo a API |
+**[UnitConverter API](https://github.com/CaiquePiazzaroli/UnitConverterSpring)**  
+API REST de conversão de unidades (distância, peso e temperatura) desenvolvida com Spring Boot. Arquitetura em camadas com Controller, Service, Repository e DTOs. Documentação interativa gerada via SpringDoc/Swagger UI. Stack: Java 17, Spring Boot, Maven, SpringDoc OpenAPI.
 
----
+**[Sistema para Clínicas Médicas](https://github.com/CaiquePiazzaroli/AmarClinicasMedicas---Java-Swing)**  
+Aplicação desktop em Java com cadastro de pacientes, agendamento de consultas e histórico médico. Stack: Java 17, Swing, MySQL, MVC.
 
-### Experiência Profissional
+**[API REST Full-Stack](https://github.com/CaiquePiazzaroli/b2b-store-app-rep)**  
+Backend com Node.js e Sequelize expondo endpoints REST, consumido por front-end React. Stack: Node.js, Sequelize, React, MySQL.
 
-```
-G5S Comercial · Programador Junior          Jun 2024 – Mar 2026
-├── Sistema interno de relatórios Power BI (Django)
-├── E-commerce: Shopify (Liquid), Dafiti, Mercado Livre, Netshoes
-└── Front-end e campanhas sazonais
+**[Lumin Hotel Resort](https://github.com/CaiquePiazzaroli/LuminResortInstitucional)**  
+Front-end responsivo para resort de luxo com integração a APIs REST. Stack: JavaScript, HTML5, CSS3. Deploy: Vercel.
 
-G5S Comercial · Analista de Suporte TI      Set 2022 – Jun 2024
-├── Help Desk para 30 colaboradores
-├── Dashboards estratégicos em Power BI
-├── Suporte ao ERP Millennium Linx + Olist
-└── Infraestrutura: servidores, redes, backups
-```
+**[E-commerce Mobile](https://github.com/CaiquePiazzaroli/open-fashion)**  
+Aplicativo Android de e-commerce com vitrine de produtos. Stack: Flutter, Firebase.
 
 ---
 
-### Formação & Certificações
+### Experiência
 
-🎓 **Tecnólogo em ADS** — IFSP-BRA (2022–2026)
-🏅 **AWS Academy Cloud Foundations** — Amazon Web Services (2025)
+**Programador Junior — G5S Comercial** *(Jun 2024 – Mar 2026)*  
+Desenvolvimento de sistema interno de gerenciamento de relatórios Power BI com Django. Manutenção de lojas virtuais Shopify com Liquid. Integração com APIs externas e gestão de canais de e-commerce (Dafiti, Mercado Livre, Netshoes).
+
+**Analista de Suporte de TI — G5S Comercial** *(Set 2022 – Jun 2024)*  
+Suporte técnico interno, análise de logs e troubleshooting em ERP Millennium Linx, criação de dashboards em Power BI e manutenção de infraestrutura de redes e servidores.
 
 ---
+
+### Formação
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas — IFSP-BRA (2022–2026)  
+AWS Academy Cloud Foundations — Amazon Web Services (2025)
