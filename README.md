@@ -1,21 +1,49 @@
 ## Caique Piazzaroli
 
-Desenvolvedor **backend Java** | ADS · IFSP-BRA (2026) | 3,5 anos em TI
+Trabalhei com TI de 2022 a 2024 como auxiliar de TI e, de 2024 a 2026, atuei
+como desenvolvedor. Atualmente, busco uma oportunidade para continuar na área
+de desenvolvimento. Tenho mantido o foco na plataforma Java, mas também possuo
+conhecimento em outras linguagens e ambientes, como Node.js, por exemplo.
 
-Java, Spring Boot, APIs REST, OpenAPI/Swagger.
-Experiência com Django, Power BI, Shopify e suporte de TI.
 
-📍 Piracaia, SP · [LinkedIn](https://linkedin.com/in/caique-piazz) · [Portfólio](https://caiquemendes.vercel.app) · caique405@gmail.com
+📍 Piracaia, SP · [LinkedIn](https://linkedin.com/in/caique-piazz) · caique405@gmail.com
 
 ---
 
-### Stack
+### Tech
 
-**Backend** Java 17 · Spring Boot · Node.js · Django · SQL  
-**Frontend** JavaScript · React · Flutter  
-**DB** MySQL · PostgreSQL · Firebase  
-**DevOps** Docker · AWS · Git  
-**Tools** Postman · Maven · SpringDoc · IntelliJ
+**Backend**
+
+<img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+**DB**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+
+**DevOps**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+<img src="https://img.shields.io/badge/SpringDoc-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SpringDoc" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 
 ---
 
@@ -31,17 +59,8 @@ Experiência com Django, Power BI, Shopify e suporte de TI.
 
 ---
 
-### Experiência
-
-**Programador Junior — G5S Comercial** `Jun 2024 – Mar 2026`  
-Django · Power BI · Shopify · integrações com Dafiti, ML, Netshoes
-
-**Analista de Suporte de TI — G5S Comercial** `Set 2022 – Jun 2024`  
-Suporte técnico, dashboards Power BI, ERP Millennium Linx
-
----
-
 ### Formação
 
+🎓 Engenharia da Computação — Univesp (2026–2031)  
 🎓 ADS — IFSP-BRA (2022–2026)  
 ☁️ AWS Academy Cloud Foundations (2025)
